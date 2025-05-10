@@ -1,0 +1,54 @@
+.elementor-704 .elementor-element.elementor-element-964ac68{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:stretch;--gap:10px 10px;--row-gap:10px;--column-gap:10px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-704 .elementor-element.elementor-element-22c1dc9{--display:flex;--align-items:flex-start;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-704 .elementor-element.elementor-element-8699f86{width:auto;max-width:auto;}.elementor-704 .elementor-element.elementor-element-8699f86 .col-title a, .elementor-704 .elementor-element.elementor-element-8699f86 .col-title{color:var( --e-global-color-74ef9184 );}.elementor-704 .elementor-element.elementor-element-8699f86 .col-title, .elementor-704 .elementor-element.elementor-element-8699f86 .col-title a{font-family:"Poppins", Sans-serif;font-size:25px;font-weight:400;text-transform:capitalize;}.elementor-704 .elementor-element.elementor-element-8699f86 .aux-staff-content .col-title{margin-top:0px;}.elementor-704 .elementor-element.elementor-element-8699f86 .aux-staff-content  .col-title{margin-bottom:15px;}.elementor-704 .elementor-element.elementor-element-8699f86 .col-subtitle{color:var( --e-global-color-74ef9184 );margin-bottom:0px;}.elementor-704 .elementor-element.elementor-element-8699f86 .aux-staff-content  .col-subtitle{font-family:"Poppins", Sans-serif;font-size:20px;font-weight:400;text-transform:uppercase;font-style:normal;}.elementor-704 .elementor-element.elementor-element-8699f86 .aux-widget-staff .aux-staff-content{padding:0px 40px -1px 40px;}@media(min-width:768px){.elementor-704 .elementor-element.elementor-element-964ac68{--content-width:1600px;}}@media(max-width:1024px){.elementor-704 .elementor-element.elementor-element-964ac68{--justify-content:center;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );}.elementor-704 .elementor-element.elementor-element-22c1dc9{--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );}.elementor-704 .elementor-element.elementor-element-8699f86 .col-title, .elementor-704 .elementor-element.elementor-element-8699f86 .col-title a{font-size:30px;}.elementor-704 .elementor-element.elementor-element-8699f86 .aux-staff-content  .col-subtitle{font-size:19px;}}@media(max-width:767px){.elementor-704 .elementor-element.elementor-element-8699f86 .col-title, .elementor-704 .elementor-element.elementor-element-8699f86 .col-title a{font-size:22px;}.elementor-704 .elementor-element.elementor-element-8699f86 .aux-staff-content  .col-title{margin-bottom:5px;}.elementor-704 .elementor-element.elementor-element-8699f86 .aux-staff-content  .col-subtitle{font-size:16px;}.elementor-704 .elementor-element.elementor-element-8699f86 .aux-widget-staff .aux-staff-content{padding:25px 20px 22px 20px;}}/* Start custom CSS for aux_staff, class: .elementor-element-8699f86 */.elementor-704 .elementor-element.elementor-element-8699f86 .aux-widget-staff .aux-staff-footer{
+    border-top:none;
+    position: absolute;
+    right: 40px;
+    bottom: 22px;
+}
+.elementor-704 .elementor-element.elementor-element-8699f86 .aux-widget-staff .aux-staff-footer li a{
+    width: 44px;
+    height: 42px;
+    background: linear-gradient(314deg, var( --e-global-color-primary ) 0%, var( --e-global-color-secondary ) 100%);
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 11px;
+    transition: all 250ms ease-in;
+}
+.elementor-704 .elementor-element.elementor-element-8699f86 .aux-widget-staff .aux-staff-footer li a:hover{
+    background: var(--e-global-color-3addc40);
+}
+.elementor-704 .elementor-element.elementor-element-8699f86 .aux-media-image img{
+    box-shadow: 0px 7px 24px #00000026;
+    border-radius: 20px;
+}
+.elementor-704 .elementor-element.elementor-element-8699f86 .aux-staff-content{
+    background-image: linear-gradient(180deg, var( --e-global-color-11a18939 ) 0%, var( --e-global-color-76d68530 ) 100%);
+    border-radius: 10px 10px 20px 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-704 .elementor-element.elementor-element-8699f86 .col-title{
+        margin-bottom: 25px !important;
+        font-size: 28px !important;
+    }
+    .elementor-704 .elementor-element.elementor-element-8699f86 .col-subtitle{
+        position:relative;
+        top:-7px;
+    }
+}
+@media screen and (max-width:767px){
+    .elementor-704 .elementor-element.elementor-element-8699f86 .aux-widget-staff .aux-staff-footer li a{
+        width: 34px;
+        height: 32px;
+    }
+    .elementor-704 .elementor-element.elementor-element-8699f86 .aux-widget-staff .aux-staff-footer{
+        position:relative;
+        left:0;
+        bottom:-5px;
+    }
+}/* End custom CSS */
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */

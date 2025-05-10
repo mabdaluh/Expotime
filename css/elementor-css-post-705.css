@@ -1,0 +1,105 @@
+.elementor-705 .elementor-element.elementor-element-74c480f{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:stretch;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-705 .elementor-element.elementor-element-d61a464{--display:flex;--align-items:flex-start;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--padding-top:40px;--padding-bottom:80px;--padding-left:30px;--padding-right:30px;}.elementor-705 .elementor-element.elementor-element-593645f .aux-the-shape{background-color:transparent;width:420px;height:400px;border-radius:25px 25px 25px 25px;overflow:hidden;background-image:linear-gradient(106deg, #F3C716 0%, #FFEFAC 100%);}.elementor-705 .elementor-element.elementor-element-593645f{width:auto;max-width:auto;position:absolute;}.elementor-705 .elementor-element.elementor-element-593645f .aux-widget-container{text-align:center;}.elementor-705 .elementor-element.elementor-element-25c4855 .aux-ico-box{background-color:transparent;padding:0px 0px 0px 0px;background-image:linear-gradient(180deg, #67798C 0%, #2D3D55 100%);}.elementor-705 .elementor-element.elementor-element-25c4855:hover .aux-ico-box{background-color:transparent;background-image:linear-gradient(180deg, #FFFFFF1A 0%, #FFFFFF1A 100%);}.elementor-705 .elementor-element.elementor-element-25c4855 .aux-widget-advanced-text{background-color:var( --e-global-color-74ef9184 );text-align:center !important;padding:70px 46px 70px 46px;}.elementor-705 .elementor-element.elementor-element-25c4855{width:auto;max-width:auto;}.elementor-705 .elementor-element.elementor-element-25c4855 .aux-widget-text .aux-text-widget-header{padding:0px 0px 0px 0px;}.elementor-705 .elementor-element.elementor-element-25c4855 .col-title a, .elementor-705 .elementor-element.elementor-element-25c4855 .col-title{color:#191A2F !important;}.elementor-705 .elementor-element.elementor-element-25c4855:hover .col-title a, .elementor-705 .elementor-element.elementor-element-25c4855:hover .col-title{color:#FFFFFF !important;}.elementor-705 .elementor-element.elementor-element-25c4855 .col-title, .elementor-705 .elementor-element.elementor-element-25c4855 .col-title a{font-family:"montserrat-arabic-re", Sans-serif;font-size:20px;font-weight:600;text-transform:capitalize;}.elementor-705 .elementor-element.elementor-element-25c4855 .widget-content{color:var( --e-global-color-13f5b7dc );font-family:"montserrat-arabic-re", Sans-serif;font-size:13px;font-weight:500;}.elementor-705 .elementor-element.elementor-element-25c4855:hover .widget-content{color:#FFFFFFA6 !important;}.elementor-705 .elementor-element.elementor-element-25c4855 .aux-widget-text .aux-text-widget-content{padding:40px 0px 0px 0px;}.elementor-705 .elementor-element.elementor-element-25c4855 .aux-text-widget-overlay, .elementor-705 .elementor-element.elementor-element-25c4855 .aux-widget-advanced-text{border-radius:25px 25px 25px 25px;}@media(max-width:1024px){.elementor-705 .elementor-element.elementor-element-593645f .aux-the-shape{width:380px;height:420px;}.elementor-705 .elementor-element.elementor-element-25c4855 .col-title, .elementor-705 .elementor-element.elementor-element-25c4855 .col-title a{font-size:24px;}}@media(min-width:768px){.elementor-705 .elementor-element.elementor-element-74c480f{--content-width:1600px;}}@media(max-width:767px){.elementor-705 .elementor-element.elementor-element-d61a464{--padding-top:40px;--padding-bottom:60px;--padding-left:15px;--padding-right:15px;}.elementor-705 .elementor-element.elementor-element-593645f .aux-the-shape{width:260px;height:370px;}.elementor-705 .elementor-element.elementor-element-25c4855 .col-title, .elementor-705 .elementor-element.elementor-element-25c4855 .col-title a{font-size:22px;}.elementor-705 .elementor-element.elementor-element-25c4855 .widget-content{font-size:14px;}.elementor-705 .elementor-element.elementor-element-25c4855 .aux-widget-advanced-text{padding:50px 30px 50px 30px;}}/* Start custom CSS for aux_simple_shape, class: .elementor-element-593645f */.elementor-705 .elementor-element.elementor-element-593645f{
+    transform: rotate(-10deg);
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-705 .elementor-element.elementor-element-593645f .aux-the-shape {
+        width: 330px !important;
+        height: 430px !important;
+    }
+}
+@media screen and (max-width:1024px) and (min-width:901px){
+    .elementor-705 .elementor-element.elementor-element-593645f{
+    transform: rotate(-8deg);
+}
+}
+@media screen and (max-width:900px) and (min-width:768px){
+    .elementor-705 .elementor-element.elementor-element-593645f .aux-the-shape {
+        width: 230px !important;
+        height: 470px !important;
+    }
+}
+@media screen and (max-width:400px){
+    .elementor-705 .elementor-element.elementor-element-593645f .aux-the-shape {
+        width: 160px !important;
+        height: 460px !important;
+    }
+    .elementor-705 .elementor-element.elementor-element-593645f{
+        top:30px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_text, class: .elementor-element-25c4855 */.elementor-705 .elementor-element.elementor-element-25c4855 .aux-ico-box{
+    width: 136px;
+    height: 136px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.elementor-705 .elementor-element.elementor-element-25c4855 .aux-widget-advanced-text{
+    box-shadow: 0px 20px 50px #00000014;
+}
+
+.elementor-705 .elementor-element.elementor-element-25c4855 .widget-content{
+    max-width: 333px;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-705 .elementor-element.elementor-element-25c4855 .col-title{
+        font-size:24px;
+    }
+}
+@media screen and (max-width:900px) and (min-width:768px){
+    .elementor-705 .elementor-element.elementor-element-25c4855 .aux-widget-advanced-text{
+        padding: 60px 26px 60px 26px !important;
+    }
+    .elementor-705 .elementor-element.elementor-element-25c4855 .aux-ico-box{
+        width: 115px;
+        height: 115px;
+    }
+}
+@media screen and (max-width:767px){
+    .elementor-705 .elementor-element.elementor-element-25c4855 .aux-ico-box{
+        width: 115px !important;
+        height: 115px !important;
+    }
+}
+@media only screen and (max-width:320px){
+    .elementor-705 .elementor-element.elementor-element-25c4855 .aux-widget-advanced-text{
+        box-shadow:0px 20px 30px #00000014;
+    }
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-d61a464 */.elementor-705 .elementor-element.elementor-element-d61a464 .aux-shpe-type-rectangle{
+    opacity: 0;
+    transition:all 250ms ease-in;
+}
+.elementor-705 .elementor-element.elementor-element-d61a464:hover .aux-shpe-type-rectangle{
+    opacity: 1;
+}
+.elementor-705 .elementor-element.elementor-element-d61a464 .aux-widget-advanced-text:before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    background-image: linear-gradient(180deg, var( --e-global-color-11a18939 ) 0%, var( --e-global-color-76d68530 ) 100%);
+    
+    border-radius: 25px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: all 250ms ease-in;
+}
+.elementor-705 .elementor-element.elementor-element-d61a464:hover .aux-widget-advanced-text:before{
+    opacity: 1;
+}
+.elementor-705 .elementor-element.elementor-element-d61a464:hover .col-title{
+    color: var(--e-global-color-de2f655) !important;
+}
+.elementor-705 .elementor-element.elementor-element-d61a464:hover .widget-content {
+    color: #FFFFFFA6 !important;
+}
+.elementor-705 .elementor-element.elementor-element-d61a464:hover .aux-ico-box{
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #FFFFFF1A 0%, #FFFFFF1A 100%) !important;
+}/* End custom CSS */
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */

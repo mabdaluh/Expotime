@@ -1,0 +1,102 @@
+.elementor-3423 .elementor-element.elementor-element-89512f3{--display:flex;}.elementor-3423 .elementor-element.elementor-element-89512f3:not(.elementor-motion-effects-element-type-background), .elementor-3423 .elementor-element.elementor-element-89512f3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#293D50;}.elementor-3423 .elementor-element.elementor-element-b7a468c{width:100%;max-width:100%;animation-delay:150ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-3423 .elementor-element.elementor-element-b7a468c > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}#elementor-popup-modal-3423{background-color:rgba(0,0,0,.8);justify-content:center;align-items:center;pointer-events:all;}#elementor-popup-modal-3423 .dialog-message{width:640px;height:auto;}#elementor-popup-modal-3423 .dialog-close-button{display:flex;}#elementor-popup-modal-3423 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}/* Start custom CSS for shortcode, class: .elementor-element-b7a468c */@font-face {
+    font-family: 'Montserrat-Arabic';
+    src: url('https://yourwebsite.com/fonts/Montserrat-Arabic-Regular.woff2') format('woff2'),
+         url('https://yourwebsite.com/fonts/Montserrat-Arabic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.custom-form-container {
+    max-width: 100%;
+    margin: 50px 0;
+    background-color: #293d50;
+    padding: 25px;
+    border-radius: 8px;
+    color: #f3c716;
+    font-family: 'Montserrat-Arabic', sans-serif;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 8px;
+    font-weight: 700;
+    color: #f3c716;
+    font-family: 'Montserrat-Arabic', sans-serif;
+}
+
+.custom-form-container input,
+.custom-form-container textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #293d50;
+    font-size: 14px;
+    font-family: 'Montserrat-Arabic', sans-serif;
+}
+
+.dimensions-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.dimensions-container input {
+    width: 45%;
+}
+
+.custom-form-container input::placeholder,
+.custom-form-container textarea::placeholder {
+    color: #aaa;
+    font-size: 14px;
+    font-family: 'Montserrat-Arabic', sans-serif;
+}
+
+.custom-form-container button,
+.wpcf7-submit {
+    width: 100%;
+    padding: 12px;
+    background-color: #f3c716;
+    color: #293d50;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;
+    font-family: 'Montserrat-Arabic', sans-serif;
+}
+
+.custom-form-container button:hover,
+.wpcf7-submit:hover {
+    background-color: #d9ad15;
+}
+
+@media (max-width: 768px) {
+    .dimensions-container {
+        flex-direction: column;
+    }
+}
+.wpcf7-submit {
+    background-color: #f3c716 !important;
+    color: #293d50 !important;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 5px;
+}
+
+.wpcf7-submit:hover {
+    background-color: #293d50 !important;
+    color: #ffffff !important;
+}/* End custom CSS */

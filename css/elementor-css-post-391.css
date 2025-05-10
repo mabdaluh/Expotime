@@ -1,0 +1,32 @@
+.elementor-391 .elementor-element.elementor-element-9e57a4e{--display:flex;--min-height:100vh;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:20px 20px;--row-gap:20px;--column-gap:20px;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-391 .elementor-element.elementor-element-5a67906{--display:flex;--min-height:100vh;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:20px 20px;--row-gap:20px;--column-gap:20px;--flex-wrap:nowrap;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-391 .elementor-element.elementor-element-b727fae > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-391 .elementor-element.elementor-element-6bcd5de .aux-modern-button.aux-modern-button-outline .aux-overlay:before, .elementor-391 .elementor-element.elementor-element-6bcd5de .aux-modern-button .aux-overlay:before{background-color:#293D5000;}.elementor-391 .elementor-element.elementor-element-6bcd5de .aux-modern-button.aux-modern-button-outline .aux-overlay:after, .elementor-391 .elementor-element.elementor-element-6bcd5de .aux-modern-button .aux-overlay:after{background-color:#293D5000;}.elementor-391 .elementor-element.elementor-element-6bcd5de > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 10px 0px;}.elementor-391 .elementor-element.elementor-element-6bcd5de{animation-delay:150ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-391 .elementor-element.elementor-element-6bcd5de .aux-modern-button-wrapper{text-align:left;}.elementor-391 .elementor-element.elementor-element-6bcd5de .aux-modern-button{padding:0px 0px 0px 0px;}.elementor-391 .elementor-element.elementor-element-6bcd5de .aux-overlay:before, .elementor-391 .elementor-element.elementor-element-6bcd5de .aux-overlay:after{border-radius:20px 20px 20px 20px;}.elementor-391 .elementor-element.elementor-element-6bcd5de .aux-text{font-family:"montserrat-arabic-re", Sans-serif;font-size:10px;font-weight:500;color:#F3C716;}:root{--page-title-display:none;}@media(max-width:767px){.elementor-391 .elementor-element.elementor-element-6bcd5de > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 10px 0px;}}@media(min-width:768px){.elementor-391 .elementor-element.elementor-element-5a67906{--width:100%;}}/* Start custom CSS for aux_modern_button, class: .elementor-element-6bcd5de */.sticky-quote-button {
+  position: fixed;
+  left: 60px;
+  bottom: 30px;
+  z-index: 9999;
+  width: auto;
+  padding: 12px 12px;
+  background-color: #293d50;
+  color: #f3c716;
+  border-radius: 25px;
+  font-size: 20px;
+  display: flex;
+  align-items: flex-start;  /* رفع النص لفوق */
+  justify-content: center;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(41, 61, 80, 0.6);
+  transition: all 0.3s ease;
+  padding-top: 1px; /* المسافة من الأعلى */
+}
+
+.sticky-quote-button:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .sticky-quote-button {
+    bottom: 27px !important;
+    left: 30px !important;
+  }
+}/* End custom CSS */
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */

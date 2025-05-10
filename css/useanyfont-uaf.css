@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'montserrat-arabic-re';
+					src: url('../fonts/4323Montserrat-Arabic-Re.woff2') format('woff2'),
+						url('../fonts/4323Montserrat-Arabic-Re.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.montserrat-arabic-re{font-family: 'montserrat-arabic-re' !important;}
+
+		
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */

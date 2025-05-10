@@ -1,0 +1,120 @@
+.elementor-1984 .elementor-element.elementor-element-294acda{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:20px;--padding-bottom:50px;--padding-left:35px;--padding-right:35px;}.elementor-1984 .elementor-element.elementor-element-294acda:not(.elementor-motion-effects-element-type-background), .elementor-1984 .elementor-element.elementor-element-294acda > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#293D50;}.elementor-1984 .elementor-element.elementor-element-da72e64{--display:flex;--margin-top:0px;--margin-bottom:0px;--margin-left:30px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1984 .elementor-element.elementor-element-da72e64.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-1984 .elementor-element.elementor-element-f400020{animation-duration:1800ms;animation-delay:150ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-1984 .elementor-element.elementor-element-f400020 > .elementor-widget-container{margin:0px 0px -5px 0px;}.elementor-1984 .elementor-element.elementor-element-ef24578{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:flex-end;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--margin-top:0px;--margin-bottom:0px;--margin-left:58px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1984 .elementor-element.elementor-element-ef24578.e-con{--order:99999 /* order end hack */;}.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-popup{background-color:transparent;background-image:linear-gradient(132deg, #67798C 0%, #2D3D55 100%);}.elementor-1984 .elementor-element.elementor-element-a0b647c > .elementor-widget-container{margin:0px 0px 0px 730px;padding:0px 0px 0px 0px;}.elementor-1984 .elementor-element.elementor-element-a0b647c{z-index:9;animation-delay:1000ms;animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);display:block;text-align:right;}.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-vertical .aux-menu-depth-0 .aux-item-content{display:block;text-align:right;}.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-menu-depth-0 > .aux-item-content{font-family:"montserrat-arabic-re", Sans-serif;font-size:15px;}.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-menu-depth-0.aux-hover > .aux-item-content{font-family:"montserrat-arabic-re", Sans-serif;font-size:15px;}.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-burger:before,  .elementor-1984 .elementor-element.elementor-element-a0b647c .aux-burger:after, .elementor-1984 .elementor-element.elementor-element-a0b647c .aux-burger .mid-line{border-color:#F3C716 !important;}.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-menu .aux-menu-item > .aux-item-content{color:#FFFFFF;padding:15px 0px 15px 0px;}.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-menu .aux-menu-item.aux-hover > .aux-item-content{color:#F3C716 !important;font-family:"montserrat-arabic-re", Sans-serif;font-size:15px;}.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-menu .aux-menu-item{margin:0px 0px 10px 0px;}.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-menu .aux-master-menu{text-align:right;}.elementor-theme-builder-content-area{height:400px;}.elementor-location-header:before, .elementor-location-footer:before{content:"";display:table;clear:both;}@media(max-width:1024px){.elementor-1984 .elementor-element.elementor-element-f400020{width:var( --container-widget-width, 80% );max-width:80%;--container-widget-width:80%;--container-widget-flex-grow:0;}}@media(min-width:768px){.elementor-1984 .elementor-element.elementor-element-da72e64{--width:18%;}.elementor-1984 .elementor-element.elementor-element-ef24578{--width:70%;}}@media(max-width:767px){.elementor-1984 .elementor-element.elementor-element-da72e64{--width:48%;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}.elementor-1984 .elementor-element.elementor-element-f400020{--container-widget-width:65%;--container-widget-flex-grow:0;width:var( --container-widget-width, 65% );max-width:65%;}.elementor-1984 .elementor-element.elementor-element-ef24578{--width:30%;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}.elementor-1984 .elementor-element.elementor-element-a0b647c > .elementor-widget-container{margin:0px 0px 0px 120px;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-a0b647c */.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-menu ul{
+    max-width: 280px;
+    margin: 0 auto;
+}
+.elementor-1984 .elementor-element.elementor-element-a0b647c ul .aux-item-content{
+    text-align: left;
+}
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-popup:before{
+    background-image: url('../../2021/08/Group-956.html');
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-popup:after{
+    width: 62px;
+    height: 147px;
+    background-image: linear-gradient(180deg, var( --e-global-color-primary ) 0%, var( --e-global-color-secondary ) 100%);
+    right: 0;
+   top:650px;
+    content: "";
+    position: absolute;
+    border-radius: 8px 0px 0px 8px;
+}
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-burger.aux-thick-medium .mid-line {
+    margin: 6px 0;
+}
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-burger{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+}
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-burger::before , .elementor-1984 .elementor-element.elementor-element-a0b647c .aux-burger::after{
+    width: 20px;
+}
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-popup .aux-panel-close{
+    border: none;
+}
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-cross-symbol::before , .elementor-1984 .elementor-element.elementor-element-a0b647c .aux-cross-symbol::after{
+    background-color: var(--e-global-color-74ef9184);
+    top:40px;
+    right: 40px;
+    height: 2px;
+    width: 130%;
+}
+@media screen and (max-width:1024px) and (min-width:900px){
+    .elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-popup .aux-fs-menu{
+        left:13%;
+    }
+    .elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-popup .aux-panel-close {
+        right:0;
+        left:unset;
+    }
+}
+@media screen and (max-width:900px){
+    .elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-popup:before{
+        display:none;
+    }
+    .elementor-1984 .elementor-element.elementor-element-a0b647c .aux-item-content{
+        text-align:center !important;
+    }
+    .elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-popup .aux-panel-close {
+        right:0;
+        left:unset;
+    }
+}
+/* إخفاء علامة X الافتراضية */
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-panel-close .aux-cross-symbol {
+    display: none;
+}
+
+/* إضافة زر الرجوع */
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-panel-close {
+    content: "رجوع"; /* نص الزر */
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #F3C716;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    width: auto;
+    height: auto;
+}
+
+/* تحسين مظهر زر الرجوع عند التفاعل */
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-panel-close:hover {
+    background-color: #e6b800;
+}
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-popup .aux-panel-close {
+    background-color: #F3C716; /* اللون الأصفر */
+    color: #ffffff !important; /* لون النص الأبيض */
+    font-size: 20px; /* تكبير حجم الخط */
+    font-weight: bold; /* جعل الخط عريض */
+    width: 120px; /* زيادة عرض الزر */
+    height: 50px; /* زيادة ارتفاع الزر */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px; /* حواف مستديرة */
+    position: absolute;
+    right: 20px; /* تعديل الموقع */
+    top: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.elementor-1984 .elementor-element.elementor-element-a0b647c .aux-fs-popup .aux-panel-close::after {
+    content: "رجوع"; /* إضافة نص الرجوع */
+    color: #ffffff; /* لون النص أبيض */
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+}/* End custom CSS */
